@@ -1,7 +1,7 @@
 # Welcome to Interview Prep Repo
 
 This repo is to help friends and other IT professionals to solve company test interviews.
-This is a private repository atm, but in the future I will move it to a website to be easy to navigate.
+This is a public repository atm, but in the future I will move it to a website to be easy to navigate.
 
 # Structure
 
@@ -40,5 +40,4 @@ Javascript sample:
 ```
 
 ## Contribution Guidelines
-The contribution for this repo atm is only for invited.
 If you desire to don't have your name in your contribution, you can contact the person who shared with you this repo for use this account to implement your contribution.
